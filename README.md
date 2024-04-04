@@ -13,9 +13,9 @@ This project is a Quiz Generator API designed for CZ4052 Assignment 2. It utiliz
 
 2. **Run the Flask App:**
 Once the dependencies are installed, you can run the Flask app (`main.py`). This will start the server, allowing you to access the generated quiz questions. You can run the app using the following command:
-```Bash
-python main.py
-```
+   ```Bash
+   python main.py
+   ```
 
 3. **Access Generated Quiz Questions:**
 After running the Flask app, the generated quiz question will be displayed in the browser.
